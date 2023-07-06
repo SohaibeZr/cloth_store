@@ -1,0 +1,6 @@
+{
+    "rules": {
+      "no-undef": "off"
+      // Other ESLint rules
+    }
+  }
