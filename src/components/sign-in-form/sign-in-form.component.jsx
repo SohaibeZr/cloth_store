@@ -77,3 +77,5 @@ const SignInForm = () => {
 }
 
 export default SignInForm;
+
+// implement binary search
